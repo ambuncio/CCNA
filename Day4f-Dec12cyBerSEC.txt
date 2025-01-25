@@ -38,6 +38,7 @@ FROM ENTERING YOUR NETWORK.
 step1: give Unlimited internet to EDGE:
 @edge
 CONFIG T
+hostname FIREWALL-32
 no logging console
 Int Gi 2
 no shut
